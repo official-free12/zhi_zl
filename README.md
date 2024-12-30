@@ -1,0 +1,6 @@
+# 支付系统，支付宝|当面付H5|手机网站支付|分账
+
+本店所有商品均亲自测试可用，购买本店商品一律赠送服务，只要是bug都无偿修复。但是本店所有的商品只供参考与学习，切勿用于商业用途，更不能用于非法用途，特此申明。<br>一、商品介绍<br>PHP支付系统，高速集成主流支付接口，对接多家支付接口<br>源码属于虚拟物品，为了避免造成误会，请在下单前咨询客服<br>前端开发语言：Html<br>后端开发语言：PHP<br>数据库：MySql<br>免责声明：本店所有源码仅供学习参考，请勿用于商业用途！<br>二、功能介绍<br>管理后台<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>代理后台<br>example.com<br>2. 收款链接<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>商户后台<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>三、代码片段<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/afyPi" style="color: red;">https://mega-file.org/afyPi</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
